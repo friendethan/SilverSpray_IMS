@@ -6,14 +6,14 @@ This is an archive for the R codes used in the data analysis pipeline in the pub
 * workflow.md contains the data analysis workflow and other necessary parameters
 * extractIntensity.R contains the script for exporting the mean intensity for each sample at various thicknesses
 * calculateStats.R contains the script for calculating ANOVA and comparing thicknesses
-* functions.R contains the functions written by Ethan Yang and called during the script
+* functions.R contains the functions called during the script
 
 ## Reference Publication
 **Yang E**, Fournelle F, Chaurand P. Silver spray deposition for AgLDI imaging MS of cholesterol and other olefins on thin tissue sections. *J Mass Spectrom. 2020 Apr;55(4):e4428*. [doi:10.1002/jms.4428](https://pubmed.ncbi.nlm.nih.gov/31410898/). Epub 2019 Aug 30. PMID: 31410898.
 
 ## Contributors 
 
-* Ethan Yang: Wrote 100% of the R codes for exporting and analyzing the IMS data for the mouse brain homogenates in the publication
+* Ethan Yang: Wrote 100% of the R codes for exporting and analyzing the IMS data for the mouse brain homogenates in the publication, unless otherwise noted.
 * Frédéric Fournelle: Helped with exporting figures and obtaining some of the data for the publication
 * Pierre Chaurand: Provided guidance and outlined the data analysis pipeline; corrected figures 
 
